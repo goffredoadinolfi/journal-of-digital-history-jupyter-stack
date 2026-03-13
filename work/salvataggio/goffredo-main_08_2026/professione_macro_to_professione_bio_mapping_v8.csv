@@ -1,0 +1,57 @@
+﻿professione_macro,professione_bio,n,macro_total,share_within_macro_pct
+Clergy,Ecclesiastico,12,12,100.0
+Cultural knowledge profession,Industriale-agricoltore,103,190,54.21
+Cultural knowledge profession,Docente,17,190,8.95
+Cultural knowledge profession,Scrittore,10,190,5.26
+Cultural knowledge profession,Archeologo,8,190,4.21
+Cultural knowledge profession,Agricoltore,7,190,3.68
+Cultural knowledge profession,Agronomo,5,190,2.63
+Cultural knowledge profession,Uomo di corte,5,190,2.63
+Cultural knowledge profession,Pittore,4,190,2.11
+Cultural knowledge profession,Scultore,4,190,2.11
+Cultural knowledge profession,Economista,3,190,1.58
+Cultural knowledge profession,Musicista,3,190,1.58
+Cultural knowledge profession,Astronomo,2,190,1.05
+Cultural knowledge profession,Bibliotecario,2,190,1.05
+Cultural knowledge profession,Commediografo,2,190,1.05
+Cultural knowledge profession,Editore,2,190,1.05
+Cultural knowledge profession,Esploratore,2,190,1.05
+Cultural knowledge profession,Geologo,2,190,1.05
+Cultural knowledge profession,Poeta,2,190,1.05
+Cultural knowledge profession,Antiquario,1,190,0.53
+Cultural knowledge profession,Bibliografo,1,190,0.53
+Cultural knowledge profession,Critico d'arte,1,190,0.53
+Cultural knowledge profession,Critico letterario,1,190,0.53
+Cultural knowledge profession,Librettista,1,190,0.53
+Cultural knowledge profession,Naturalista,1,190,0.53
+Cultural knowledge profession,Scienziato,1,190,0.53
+Cultural/knowledge professions,Giornalista,49,49,100.0
+Economic elites,Possidente,367,530,69.25
+Economic elites,Industriale,90,530,16.98
+Economic elites,Amministratore d'azienda,37,530,6.98
+Economic elites,Banchiere,21,530,3.96
+Economic elites,Commerciante,15,530,2.83
+Judiciary (magistrates),Magistrato,274,276,99.28
+Judiciary (magistrates),Magistrato Incerto,1,276,0.36
+Judiciary (magistrates),Magistrato Si,1,276,0.36
+Legal profession,Notaio,2,2,100.0
+Legal profession (lawyers),Avvocato,282,283,99.65
+Legal profession (lawyers),Avvocato erariale,1,283,0.35
+Military elite,Militare di carriera (Esercito),259,345,75.07
+Military elite,Militare di carriera (Marina),79,345,22.9
+Military elite,Militare di carriera (Aeronautica),5,345,1.45
+Military elite,Militare di carriera (Esercito) Si,2,345,0.58
+Other,Ingegnere,56,89,62.92
+Other,Medico,31,89,34.83
+Other,Allevatore,1,89,1.12
+Other,Architetto,1,89,1.12
+Other/unclear,Mancante,1,1,100.0
+State elite,Amministratore pubblico,1,1,100.0
+State elite (administration/diplomacy/politics),Prefetto,95,235,40.43
+State elite (administration/diplomacy/politics),Diplomatico,74,235,31.49
+State elite (administration/diplomacy/politics),Funzionario amministrativo,61,235,25.96
+State elite (administration/diplomacy/politics),Sindacalista,2,235,0.85
+State elite (administration/diplomacy/politics),Diplomatico Incerto,1,235,0.43
+State elite (administration/diplomacy/politics),"Diplomatico Si, Incerto",1,235,0.43
+State elite (administration/diplomacy/politics),Prefetto Si,1,235,0.43
+University professor,Docente universitario,351,351,100.0
